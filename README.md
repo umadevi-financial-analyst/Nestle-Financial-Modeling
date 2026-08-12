@@ -30,7 +30,7 @@ The analysis connects historical financial performance with forward-looking assu
 ## 📁 Project Files
 
 - **FS - Nestle.xlsx** - Financial analysis and modeling workbook
-- **Nestle Financial Analysis.pdf** - Project summary and analysis
+- **Nestle - FM.pdf** - Project summary and analysis
 
 ## 💡 Key Takeaway
 
