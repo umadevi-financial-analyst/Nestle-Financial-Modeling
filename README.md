@@ -1,12 +1,12 @@
-# Nestlé India - Financial Analysis & Modeling
+# Nestle India - Financial Analysis & Modeling
 
 ## 📌 Project Overview
 
-Built a 10-year financial model for Nestlé India to evaluate historical performance, financial trends, forecasting assumptions, and valuation drivers.
+Built a 10-year financial model for Nestle India to evaluate historical performance, financial trends, forecasting assumptions, and valuation drivers.
 
 ## 🎯 Objective
 
-To understand Nestlé India's financial performance and translate annual-report information into a structured financial analysis and valuation model.
+To understand Nestle India's financial performance and translate annual-report information into a structured financial analysis and valuation model.
 
 ## 🔍 Analysis Performed
 
