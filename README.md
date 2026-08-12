@@ -1,4 +1,4 @@
-# Nestlé India — Financial Analysis & Modeling
+# Nestlé India - Financial Analysis & Modeling
 
 ## 📌 Project Overview
 
@@ -29,8 +29,8 @@ The analysis connects historical financial performance with forward-looking assu
 
 ## 📁 Project Files
 
-- **FS - Nestle.xlsx** — Financial analysis and modeling workbook
-- **Nestle Financial Analysis.pdf** — Project summary and analysis
+- **FS - Nestle.xlsx** - Financial analysis and modeling workbook
+- **Nestle Financial Analysis.pdf** - Project summary and analysis
 
 ## 💡 Key Takeaway
 
