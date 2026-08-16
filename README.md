@@ -1,38 +1,30 @@
-# Nestle India - Financial Analysis & Modeling
+# 📊 Nestle India - Financial Analysis & Valuation
 
-## 📌 Project Overview
+### Financial Modeling | Forecasting | Comparable Company Valuation | Financial Due Diligence
 
-Built a 10-year financial model for Nestle India to evaluate historical performance, financial trends, forecasting assumptions, and valuation drivers.
+## 🎯 Project Overview
 
-## 🎯 Objective
+Built a 10-year financial analysis and valuation model for Nestlé India, connecting historical performance with forecasting, valuation and due diligence insights.
 
-To understand Nestle India's financial performance and translate annual-report information into a structured financial analysis and valuation model.
+## 🔍 Key Analysis
 
-## 🔍 Analysis Performed
+- 📈 Financial Statement & Ratio Analysis
+- 📊 Historical Trend Analysis & Forecasting
+- 💰 Comparable Company Valuation
+- 🔎 Financial Due Diligence - Revenue & EBITDA Quality
+- 🧮 DCF & Valuation Analysis
+- 📌 Key Business & Financial Drivers
 
-- Financial Statement Analysis
-- Ratio Analysis
-- 10-Year Historical Trend Analysis
-- Revenue & Profitability Analysis
-- Financial Forecasting
-- Beta & WACC Analysis
-- DCF Valuation
-- Sensitivity Analysis
+## 🛠️ Tools
 
-## 🛠️ Tools & Skills
-
-**Excel | Financial Analysis | Financial Modeling | Forecasting | DCF Valuation | Ratio Analysis**
-
-## 📊 Key Focus
-
-The analysis connects historical financial performance with forward-looking assumptions to identify the key drivers influencing business performance and intrinsic value.
+**Excel | Financial Modeling | Financial Analysis | Valuation**
 
 ## 📁 Project Files
 
-- **FS - Nestle.xlsx** - Financial analysis and modeling workbook
-- **Nestle - FM.pdf** - Project summary and analysis
+- 📊 **FS - Nestle.xlsx** - Financial analysis & modeling
+- 📄 **Nestle Financial Analysis.pdf** - Analysis & insights
+- 📄 **Comparable Company Valuation & FDD.pdf** - Valuation & due diligence analysis
 
 ## 💡 Key Takeaway
 
-The project demonstrates how financial statements and annual-report information can be converted into structured analysis, forecasting assumptions, and valuation insights.
-
+The project demonstrates how financial statements, operating performance and valuation methods can be combined to assess business performance and investment value.
