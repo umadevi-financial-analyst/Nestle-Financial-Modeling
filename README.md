@@ -21,9 +21,9 @@ Built a 10-year financial analysis and valuation model for Nestlé India, connec
 
 ## 📁 Project Files
 
-- 📊 [Nestlé — Financial Model (Excel)](./FS%20-%20Nestle.xlsx)
-- 📄 [Nestlé — Financial Analysis (PDF)](./Nestle%20-%20FM.pdf)
-- 📄 [Nestlé — Comparable Company Valuation & FDD](./Nestle%20-%20FDD%20%26%20Comps.pdf)
+- 📊 [Nestle - Financial Model (Excel)](./FS%20-%20Nestle.xlsx)
+- 📄 [Nestle - Financial Analysis (PDF)](./Nestle%20-%20FM.pdf)
+- 📄 [Nestle - Comparable Company Valuation & FDD](./Nestle%20-%20FDD%20%26%20Comps.pdf)
 - 
 ## 💡 Key Takeaway
 
