@@ -21,7 +21,7 @@ Built a 10-year financial analysis and valuation model for Nestlé India, connec
 
 ## 📁 Project Files
 
-- 📊 **FS - Nestle.xlsx** - Financial analysis & modeling
+- 📊 **FS - Nestle.xlsx** - https://github.com/umadevi-financial-analyst/Nestle-Financial-Modeling/blob/main/FS%20-%20Nestle.xlsx
 - 📄 **Nestle Financial Analysis.pdf** - Analysis & insights
 - 📄 **Comparable Company Valuation & FDD.pdf** - Valuation & due diligence analysis
 
