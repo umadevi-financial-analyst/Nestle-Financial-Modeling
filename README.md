@@ -28,3 +28,7 @@ Built a 10-year financial analysis and valuation model for Nestlé India, connec
 ## 💡 Key Takeaway
 
 The project demonstrates how financial statements, operating performance and valuation methods can be combined to assess business performance and investment value.
+
+### ⚠️ Disclaimer
+
+This project is created for **Learning and analytical purposes only** and does not constitute investment advice.
